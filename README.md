@@ -1,6 +1,3 @@
-![CyberDrain Light](github_assets/img/CIPP.png#gh-dark-mode-only)
-![CyberDrain Dark](github_assets/img/CIPP-Light.png#gh-light-mode-only)
-
 # What is this?
 
 The CyberDrain Improved Partner Portal is a portal to help manage administration for Microsoft Partners. The current Microsoft partner landscape makes it fairly hard to manage multi tenant situations, with loads of manual work. Microsoft Lighthouse might resolve this in the future but development of this is lagging far behind development of the current market for Microsoft Partners.  
